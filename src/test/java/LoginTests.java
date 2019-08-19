@@ -9,5 +9,6 @@ public class LoginTests {
         System.out.println("Line 511");
         System.out.println("This is coming from master branch");
 
+         System.out.println("Remote changed");
     }
 }
